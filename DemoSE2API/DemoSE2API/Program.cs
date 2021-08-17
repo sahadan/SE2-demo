@@ -14,6 +14,7 @@ namespace DemoSE2API
     {
         public static void Main(string[] args)
         {
+            //Entry point
             CreateWebHostBuilder(args).Build().Run();
         }
 
